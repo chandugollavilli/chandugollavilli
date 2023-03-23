@@ -1,6 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/61582494/226694835-61ab5b38-fc71-47ac-9357-babc3449f324.png)
 
-
 <h1 align="center">Hi 👋, I'm ChanduGollavilli</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
